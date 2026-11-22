@@ -11,7 +11,7 @@
 <a href="https://github.com/sakib228">
   <img src="https://img.shields.io/badge/GitHub-sakib228-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/md-YOUR-USERNAME-dev/">
+<a href="https://www.linkedin.com/in/md-sakib-hossain-dev/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:sakinhossainmd1@gmail.com">
@@ -61,8 +61,6 @@ const sakib = {
 I'm a Computer Science & Engineering student at **Bangladesh University of Business and Technology (BUBT)**, passionate about building modern, responsive, and user-friendly web applications.
 
 I enjoy exploring new technologies, solving programming problems, and turning ideas into real-world projects.
-
-Currently, I'm focusing on strengthening my **JavaScript fundamentals, React development, and problem-solving skills** while gradually exploring full-stack development.
 
 - 💻 Interested in Frontend & Full-Stack Development.
 - ⚡ Practicing JavaScript and problem-solving regularly.
@@ -198,7 +196,7 @@ I'm always interested in connecting with developers, learning new things, and co
 <a href="mailto:sakinhossainmd1@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/md-YOUR-USERNAME-dev/">
+<a href="https://www.linkedin.com/in/md-sakib-hossain-dev/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/md_sakib_dev/">
