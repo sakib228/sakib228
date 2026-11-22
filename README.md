@@ -8,15 +8,15 @@
 
 <br/>
 
-<a href="https://github.com/sakib-hossain"><img src="https://img.shields.io/badge/GitHub-sakib--hossain-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/md-sakib-hossain-dev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GitHub-YOUR--USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/md-YOUR-USERNAME-dev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sakinhossainmd1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sakib-hossain&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" />
-<img src="https://img.shields.io/github/followers/sakib-hossain?label=Followers&style=flat-square&color=38BDF8&logo=github" />
-<img src="https://img.shields.io/github/stars/sakib-hossain?label=Stars&style=flat-square&color=38BDF8&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" />
+<img src="https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=flat-square&color=38BDF8&logo=github" />
+<img src="https://img.shields.io/github/stars/YOUR-USERNAME?label=Stars&style=flat-square&color=38BDF8&logo=github" />
 
 </div>
 
@@ -67,7 +67,7 @@ I'm a Computer Science & Engineering student at **Bangladesh University of Busin
 | 📚 **English Janala** | An educational web app for learning English vocabulary | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![API](https://img.shields.io/badge/REST_API-2563EB?style=flat-square) |
 | 💼 **Jobs Board Final** | A job listing and application interface | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
 
-<a href="https://github.com/sakib-hossain?tab=repositories">
+<a href="https://github.com/YOUR-USERNAME?tab=repositories">
 <img src="https://img.shields.io/badge/Explore_All_Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -92,20 +92,16 @@ I'm a Computer Science & Engineering student at **Bangladesh University of Busin
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sakib-hossain&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-hossain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=sakib-hossain&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sakib-hossain&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-
-<br/>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=sakib-hossain&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
 </div>
 
@@ -135,7 +131,7 @@ I'm a Computer Science & Engineering student at **Bangladesh University of Busin
 <div align="center">
 
 <a href="mailto:sakinhossainmd1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/md-sakib-hossain-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/md-YOUR-USERNAME-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/md_sakib_dev/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCSOKP5exnuXHptNcypAQfLg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://www.facebook.com/sheikh.sakibhossain.HULK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
