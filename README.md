@@ -33,8 +33,6 @@
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
-
 ## 👨‍💻 About Me
 
 <img align="right" width="170" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="Developer animation" />
@@ -56,8 +54,6 @@ My current journey is focused on mastering JavaScript, improving problem-solving
 <br clear="right"/>
 
 ---
-
-<!-- ================= TECH STACK ================= -->
 
 ## 🛠️ Technical Skills
 
@@ -95,8 +91,6 @@ My current journey is focused on mastering JavaScript, improving problem-solving
 
 ---
 
-<!-- ================= LEARNING JOURNEY ================= -->
-
 ## 📚 Current Learning Journey
 
 <div align="center">
@@ -120,8 +114,6 @@ My current journey is focused on mastering JavaScript, improving problem-solving
 
 ---
 
-<!-- ================= PROJECTS ================= -->
-
 ## 🚀 Featured Projects
 
 Here are some projects I've developed while learning and practicing programming and web development.
@@ -144,37 +136,29 @@ Here are some projects I've developed while learning and practicing programming 
 
 ---
 
-<!-- ================= GITHUB STATISTICS ================= -->
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sakib228&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=tokyonight&bg_color=0B1220&title_color=76A5F5&icon_color=76A5F5&text_color=DCE6F5" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib228&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0B1220&title_color=76A5F5&text_color=DCE6F5" />
+<img width="65%" src="https://github-readme-stats.vercel.app/api?username=sakib228&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=tokyonight&bg_color=0B1220&title_color=76A5F5&icon_color=76A5F5&text_color=DCE6F5" alt="GitHub Statistics" />
 
 <br/><br/>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=sakib228&theme=tokyonight&hide_border=true&background=0B1220&ring=6095E8&fire=76A5F5&currStreakLabel=76A5F5&sideLabels=DCE6F5&dates=8B9BB5" />
+<img width="65%" src="https://streak-stats.demolab.com?user=sakib228&theme=tokyonight&hide_border=true&background=0B1220&ring=6095E8&fire=76A5F5&currStreakLabel=76A5F5&sideLabels=DCE6F5&dates=8B9BB5" alt="GitHub Contribution Streak" />
 
 </div>
 
 ---
-
-<!-- ================= CONTRIBUTION GRAPH ================= -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sakib228&bg_color=0B1220&color=DCE6F5&line=6095E8&point=FFFFFF&area=true&area_color=28569A&hide_border=true&custom_title=GitHub%20Contribution%20Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sakib228&bg_color=0B1220&color=DCE6F5&line=6095E8&point=FFFFFF&area=true&area_color=28569A&hide_border=true&custom_title=GitHub%20Contribution%20Graph" alt="GitHub Contribution Activity" />
 
 </div>
 
 ---
-
-<!-- ================= DEVELOPER MINDSET ================= -->
 
 ## 🎯 Developer Mindset
 
@@ -195,8 +179,6 @@ Here are some projects I've developed while learning and practicing programming 
 </div>
 
 ---
-
-<!-- ================= CONNECT ================= -->
 
 ## 🤝 Let's Connect
 
