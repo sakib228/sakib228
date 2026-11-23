@@ -1,217 +1,256 @@
-\<div align="center">
+<!-- =========================================================
+     MD. SAKIB HOSSAIN | GITHUB PROFILE README
+     Design: Modern Developer | Dark Navy + Blue
+     ========================================================= -->
 
+<div align="center">
 
+<!-- ANIMATED HEADER -->
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:60A5FA&height=200&section=header&text=Md.%20Sakib%20Hossain&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Frontend%20Developer&descAlignY=60&descSize=17](https://capsule-render.vercel.app/api?type=waving\&color=0:0F172A,50:1D4ED8,100:60A5FA\&height=200\&section=header\&text=Md.%20Sakib%20Hossain\&fontSize=42\&fontColor=FFFFFF\&fontAlignY=38\&desc=Software%20Engineer%20%7C%20Frontend%20Developer\&descAlignY=60\&descSize=17)" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:2563EB&height=220&section=header&text=Md.%20Sakib%20Hossain&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Computer%20Science%20Student%20%7C%20Frontend%20Developer&descSize=16&descAlignY=58&animation=fadeIn" />
 
+<!-- TYPING ANIMATION -->
 
+<a href="https://github.com/sakib-hossain">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer+%F0%9F%92%BB;JavaScript+%7C+React+%7C+Next.js;Building+Responsive+Web+Applications;Learning+%7C+Building+%7C+Improving" alt="Typing Animation" />
+</a>
 
-\<a href="[https://readme-typing-svg.demolab.com](https://readme-typing-svg.demolab.com)"> \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Frontend+Developer+%F0%9F%92%BB;JavaScript+%7C+React+%7C+Next.js;Learning+%7C+Building+%7C+Improving](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=18\&pause=1000\&color=60A5FA\&center=true\&vCenter=true\&width=650\&lines=Computer+Science+%26+Engineering+Student;Frontend+Developer+%F0%9F%92%BB;JavaScript+%7C+React+%7C+Next.js;Learning+%7C+Building+%7C+Improving)" /> \</a>
+<br/>
 
+<!-- SOCIAL QUICK LINKS -->
 
+<a href="https://github.com/sakib-hossain">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/md-sakib-hossain-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:sakinhossainmd1@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-\<br/>
+<br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=sakib-hossain&label=PROFILE+VIEWS&color=2563EB&style=flat-square" alt="Profile Views"/>
 
-
-\<a href="[https://github.com/sakib-hossain](https://github.com/sakib-hossain)"> \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)"/> \</a> \<a href="[https://www.linkedin.com/in/sakib-hossain](https://www.linkedin.com/in/sakib-hossain)"> \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/> \</a> \<a href="mailto:sakinhossainmd1@gmail.com"> \<img src="[https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)"/> \</a>
-
-
-
-\<br/>
-
-
-
-\<img src="[https://komarev.com/ghpvc/?username=sakib-hossain&label=Profile%20Views&color=2563EB&style=flat-square](https://komarev.com/ghpvc/?username=sakib-hossain\&label=Profile%20Views\&color=2563EB\&style=flat-square)" />
-
-
-
-\</div>
+</div>
 
 ---
+
+<!-- ABOUT ME -->
 
 ## 👨‍💻 About Me
 
 Hello! I'm **Md. Sakib Hossain**, a Computer Science and Engineering student at **Bangladesh University of Business and Technology (BUBT)**, Bangladesh.
 
+I'm passionate about programming, problem-solving, and modern web development. My primary focus is frontend development, with a strong interest in creating responsive, accessible, and user-friendly web applications.
 
-
-I'm passionate about programming, problem-solving, and modern web development. Currently, I'm focusing on strengthening my JavaScript fundamentals and building responsive, user-friendly web applications.
-
-- 🎓 B.Sc. in Computer Science & Engineering — BUBT
-- 💻 Completed Programming Hero Level 1 — Front-End Development
-- 🌱 Currently exploring React, Next.js, Node.js, and MongoDB
-- 🧠 Interested in Data Structures, Algorithms, and Problem Solving
-- 🚀 Focused on writing clean code and building real-world projects
+- 🎓 B.Sc. in Computer Science & Engineering — BUBT (Running)
+- 💻 Completed Programming Hero Level 1 — Frontend Development
+- 🌱 Exploring React, Next.js, Node.js, and MongoDB
+- 🧠 Interested in problem-solving, algorithms, and software development
+- 🚀 Focused on writing clean code and building practical projects
 - 📍 Dhaka, Bangladesh
 
 ---
+
+<!-- TECH STACK -->
 
 ## 🛠️ Technical Skills
 
 ### Programming Languages
 
-\<p> \<img src="[https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark](https://skillicons.dev/icons?i=c,cpp,java,python,js\&theme=dark)" /> \</p>
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" alt="Programming Languages"/>
+
+</div>
 
 ### Frontend Development
 
-\<p> \<img src="[https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&theme=dark](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs\&theme=dark)" /> \</p>
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&theme=dark" alt="Frontend Technologies"/>
+
+</div>
 
 ### Backend & Database
 
-\<p> \<img src="[https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark](https://skillicons.dev/icons?i=nodejs,mongodb\&theme=dark)" /> \</p>
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" alt="Backend and Database"/>
+
+</div>
 
 ### Development Tools
 
-\<p> \<img src="[https://skillicons.dev/icons?i=git,github,vscode&theme=dark](https://skillicons.dev/icons?i=git,github,vscode\&theme=dark)" /> \</p>
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development Tools"/>
+
+</div>
 
 ---
+
+<!-- EDUCATION -->
 
 ## 🎓 Education
 
+<div align="left">
+
 **B.Sc. in Computer Science & Engineering (Running)**
-
-
 
 Bangladesh University of Business and Technology (BUBT)
 
+CGPA: **3.51**
 
-
-CGPA: 3.51
-
-
+<br/>
 
 **Higher Secondary Certificate (Science)**
 
-
-
 Govt. Yasin College, Faridpur
 
+GPA: **4.92** | 2022
 
-
-GPA: 4.92 | 2022
-
-
+<br/>
 
 **Secondary School Certificate (Science)**
 
-
-
 Faridpur Zilla School
 
+GPA: **4.94** | 2020
 
-
-GPA: 4.94 | 2020
+</div>
 
 ---
+
+<!-- PROJECTS -->
 
 ## 🚀 Featured Projects
 
-| Project                   | Description                                        | Technologies          |
-| ------------------------- | -------------------------------------------------- | --------------------- |
-| **Hero Dev Portfolio**    | Personal portfolio showcasing skills and projects. | HTML, CSS, JavaScript |
-| **Payoo**                 | Digital payment interface project.                 | JavaScript            |
-| **BPL Dream 11 Resource** | Cricket fantasy resource and information platform. | Web Development       |
-| **English Janala Code**   | Educational web application for English learning.  | JavaScript, API       |
-| **Jobs Board Final**      | Job listing and application interface.             | React                 |
+| Project | Description | Technologies |
+|:---|:---|:---|
+| **Hero Dev Portfolio** | Personal portfolio showcasing skills and projects. | HTML, CSS, JavaScript |
+| **Payoo** | Digital payment interface project. | JavaScript |
+| **BPL Dream 11 Resource** | Cricket fantasy resource and information platform. | Web Development |
+| **English Janala** | Educational web application for English learning. | JavaScript, API |
+| **Jobs Board Final** | Job listing and application interface. | React |
 
-🔗 Explore all my projects: [GitHub Repositories](https://github.com/sakib-hossain?tab=repositories)
+<div align="center">
+
+<a href="https://github.com/sakib-hossain?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+</a>
+
+</div>
+
+---
+
+<!-- GITHUB ANALYTICS -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/sakib-hossain">
+<img height="175" width="49%" src="https://github-readme-stats.vercel.app/api?username=sakib-hossain&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Statistics"/>
+</a>
+
+<a href="https://github.com/sakib-hossain">
+<img height="175" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-hossain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+</a>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=sakib-hossain&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Contribution Streak"/>
+
+</div>
 
 ---
 
-## 📊 GitHub Statistics
-
-\<div align="center">
-
-
-
-\<img height="180" src="[https://github-readme-stats.vercel.app/api?username=sakib-hossain&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=sakib-hossain\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&rank_icon=github)" />
-
-
-
-\<img height="180" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-hossain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-hossain\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)" />
-
-
-
-\<br/>\<br/>
-
-
-
-\<img width="70%" src="[https://streak-stats.demolab.com?user=sakib-hossain&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=sakib-hossain\&theme=tokyonight\&hide_border=true)" />
-
-
-
-\</div>
-
----
+<!-- CONTRIBUTION GRAPH -->
 
 ## 📈 Contribution Activity
 
-\<div align="center">
+<div align="center">
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sakib-hossain&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&area_color=1f3b73&hide_border=true&custom_title=GitHub%20Contribution%20Graph" alt="GitHub Contribution Graph"/>
 
-
-\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=sakib-hossain&theme=tokyo-night&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=sakib-hossain\&theme=tokyo-night\&hide_border=true\&area=true)" width="100%" />
-
-
-
-\</div>
+</div>
 
 ---
 
-## 🎯 Currently Working On
+<!-- CURRENT FOCUS -->
 
-- 📌 Improving JavaScript problem-solving skills
-- ⚛️ Building projects with React
-- 🎨 Creating responsive interfaces using Tailwind CSS
+## 🎯 Current Focus
+
+- 📌 Strengthening JavaScript fundamentals and problem-solving skills
+- ⚛️ Building modern web applications with React
+- 🎨 Improving responsive UI and frontend development
 - 🌐 Exploring Next.js and Node.js
 - 🗄️ Learning MongoDB and database fundamentals
-- 🧩 Strengthening programming fundamentals and algorithms
+- 🧩 Practicing programming concepts and algorithms
+- 🚀 Building projects and maintaining consistent coding habits
 
 ---
+
+<!-- LANGUAGES -->
 
 ## 🌐 Languages
 
-- 🇧🇩 Bangla — Native
-- 🇬🇧 English — Intermediate
+| Language | Proficiency |
+|:---|:---|
+| Bangla | Native |
+| English | Intermediate |
 
 ---
 
+<!-- SOCIAL CONNECTIONS -->
+
 ## 🤝 Connect With Me
 
-\<div align="center">
+<div align="center">
 
+**Let's Connect, Share Knowledge & Build Something Great!**
 
+<br/>
 
-\<a href="[https://github.com/sakib-hossain](https://github.com/sakib-hossain)"> \<img src="[https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github)"/> \</a>
+<a href="mailto:sakinhossainmd1@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
+<a href="https://www.linkedin.com/in/md-sakib-hossain-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
+<a href="https://www.instagram.com/md_sakib_dev/?hl=en">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
-\<a href="[https://www.linkedin.com/in/sakib-hossain](https://www.linkedin.com/in/sakib-hossain)"> \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)"/> \</a>
+<a href="https://www.youtube.com/channel/UCSOKP5exnuXHptNcypAQfLg">
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
 
+<a href="https://www.facebook.com/sheikh.sakibhossain.HULK">
+<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
 
+<br/><br/>
 
-\<a href="mailto:sakinhossainmd1@gmail.com"> \<img src="[https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail)"/> \</a>
+### 💡 Developer Mindset
 
+**"Code. Learn. Build. Repeat."**
 
+*Consistency is the key to becoming a better developer.*
 
-\<br/>\<br/>
+<br/>
 
-### 💡 "Keep Learning. Keep Building. Keep Growing."
+</div>
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:1D4ED8,100:0F172A&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:60A5FA,50:1D4ED8,100:0F172A\&height=120\&section=footer)" width="100%"/>
+<!-- ANIMATED FOOTER -->
 
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=140&section=footer&animation=fadeIn" alt="Animated Footer"/>
 
-\</div>
-
-
-
-amer social media link vhol dico -
-
-- [sakinhossainmd1@gmail.com](mailto:sakinhossainmd1@gmail.com)
-- svg[in/md-sakib-hossain-dev](https://www.linkedin.com/in/md-sakib-hossain-dev/)
-- [https://www.instagram.com/md_sakib_dev/?hl=en](https://www.instagram.com/md_sakib_dev/?hl=en)
-- svg[channel/UCSOKP5exnuXHptNcypAQfLg](https://www.youtube.com/channel/UCSOKP5exnuXHptNcypAQfLg)
-- svg[sheikh.sakibhossain.HULK](https://www.facebook.com/sheikh.sakibhossain.HULK)
-- again make koro ero ektu professional vabe make it
+</div>
