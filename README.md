@@ -175,20 +175,12 @@ const sakib = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sakib228&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&border_radius=12" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib228&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sakib228&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&border_radius=12" alt="GitHub Stats"/>
+<img height="170" src="https://streak-stats.demolab.com?user=sakib228&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=sakib228&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sakib228&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=sakib228&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trophies"/>
+<img width="100%" src="https://ghchart.rshah.org/38BDF8/sakib228" alt="Contribution Chart"/>
 
 </div>
 
@@ -221,14 +213,6 @@ const sakib = {
 <img src="https://img.shields.io/badge/Bangla-Native-006A4E?style=for-the-badge" alt="Bangla"/>
 <img src="https://img.shields.io/badge/English-Intermediate-1E40AF?style=for-the-badge" alt="English"/>
 
-</div>
-
-<br/>
-
-<!-- ================= QUOTE ================= -->
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 <br/>
