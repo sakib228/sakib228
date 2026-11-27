@@ -1,217 +1,288 @@
-<!-- ========================================================= -->
-<!--                 MD. SAKIB HOSSAIN                        -->
-<!--              ADVANCED GITHUB PROFILE                     -->
-<!-- ========================================================= -->
-
-<!-- ================= ANIMATED HEADER ================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1736,35:142D55,70:28569A,100:6095E8&text=MD.%20SAKIB%20HOSSAIN&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FRONT-END%20DEVELOPER&descSize=16&descAlignY=58&animation=fadeIn&stroke=7CA6F5&strokeWidth=1" />
+<!-- ═══════════════════════════════════════════════ -->
+<!--                  HERO SECTION                  -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,25:0B1120,60:1E40AF,100:38BDF8&height=260&section=header&text=Md.%20Sakib%20Hossain&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=CSE%20Student%20%7C%20Frontend%20Developer%20%7C%20Problem%20Solver&descSize=17&descAlignY=58&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=1000&color=76A5F5&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Welcome+to+my+GitHub+profile!;Computer+Science+%26+Engineering+Student;Software+Engineering+Enthusiast;Front-End+Developer+in+Progress;JavaScript+%7C+React+%7C+Next.js;Learning%2C+Building+%26+Improving+Every+Day." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&height=55&lines=Hi+there%2C+I'm+Sakib+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;JavaScript+%7C+React+%7C+Next.js;Building+Modern+and+Responsive+Web+Apps;Code.+Learn.+Build.+Repeat." alt="Typing Animation" />
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/sakib228">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-sakib228-0B1120?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/md-sakib-hossain-dev/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:sakinhossainmd1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sakib228&style=for-the-badge&color=28569A&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=sakib228&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/sakib228?label=Followers&style=for-the-badge&color=38BDF8&logo=github" alt="GitHub Followers"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Focus-Frontend%20Development-1E40AF?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Learning-JavaScript-38BDF8?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Location-Bangladesh-0B1120?style=flat-square&logo=googlemaps&logoColor=white"/>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<!-- ═══════════════════════════════════════════════ -->
+<!--                  ABOUT SECTION                 -->
+<!-- ═══════════════════════════════════════════════ -->
 
-<img align="right" width="170" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="Developer animation" />
+## 👋 About Me
 
-Hello! I'm **Md. Sakib Hossain**, a Computer Science & Engineering student at **Bangladesh University of Business and Technology (BUBT)**.
+<img align="right" width="120" src="https://skillicons.dev/icons?i=js,react,html,css&perline=2&theme=dark" />
 
-I'm passionate about programming, software engineering, and modern web development. I enjoy solving problems, exploring new technologies, and building practical projects that turn ideas into real-world applications.
+I'm **Md. Sakib Hossain**, a Computer Science & Engineering student at **Bangladesh University of Business and Technology (BUBT)**.
 
-My current journey is focused on mastering JavaScript, improving problem-solving skills, and developing modern web applications.
+I'm passionate about creating modern, responsive, and user-friendly web applications. I enjoy learning new technologies, solving programming problems, and turning ideas into real-world projects.
 
-- 🎓 B.Sc. in Computer Science & Engineering — BUBT (Running)
-- 📊 Current CGPA: **3.51**
-- 💻 Interested in Software Engineering & Web Development
-- 🌱 Currently exploring **JavaScript, React, Next.js & Node.js**
-- 🧠 Practicing programming fundamentals and problem solving
-- 🚀 Building projects and improving my development workflow
-- 📍 Dhaka, Bangladesh
+- 💻 Frontend Development enthusiast
+- ⚡ Strengthening JavaScript fundamentals
+- ⚛️ Learning React and modern frontend technologies
+- 🧩 Practicing Data Structures & Algorithms
+- 🚀 Building projects and improving every day
+- 🎯 Working towards becoming a skilled software developer
 
 <br clear="right"/>
 
----
+<details>
+<summary><b>👨‍💻 Developer Profile</b></summary>
 
-## 🛠️ Technical Skills
+<br/>
+
+```javascript
+const sakib = {
+  name: "Md. Sakib Hossain",
+  role: "Frontend Developer",
+  education: "B.Sc. in CSE @ BUBT",
+  location: "Bangladesh 🇧🇩",
+
+  currentlyLearning: [
+    "JavaScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "MongoDB"
+  ],
+
+  interests: [
+    "Web Development",
+    "Problem Solving",
+    "Data Structures & Algorithms",
+    "Building Useful Projects"
+  ],
+
+  motto: "Code. Learn. Build. Repeat."
+};
+```
+
+</details>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--                  TECH STACK                    -->
+<!-- ═══════════════════════════════════════════════ -->
+
+## 🧰 Tech Stack & Technologies
+
+<div align="center">
 
 ### 💻 Programming Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" alt="Programming Languages" />
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" alt="Programming Languages"/>
 
-### 🌐 Front-End Development
+<br/><br/>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&theme=dark" alt="Frontend Technologies" />
-</p>
+### 🎨 Frontend Development
 
-### ⚙️ Back-End Development
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&theme=dark" alt="Frontend Technologies"/>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" />
-</p>
+<br/><br/>
 
-### 🗄️ Database
+### ⚙️ Backend & Database
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&theme=dark" alt="Backend and Database"/>
 
-**Learning:** MongoDB and database integration.
+<br/><br/>
 
-### 🔧 Tools & Development Environment
+### 🛠️ Development Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,vite&theme=dark" alt="Development Tools" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Development Tools"/>
 
----
+<br/><br/>
 
-## 📚 Current Learning Journey
-
-<div align="center">
-
-| Technology | Focus |
-|:---|:---|
-| JavaScript | Core Concepts, ES6+, DOM, API & Problem Solving |
-| React | Components, Props, State, Hooks & API Integration |
-| Next.js | Modern React Framework & Full-Stack Development |
-| Node.js | Server-Side JavaScript & Backend Fundamentals |
-| MongoDB | Database Fundamentals & CRUD Operations |
-| Git & GitHub | Version Control & Consistent Contributions |
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 </div>
 
-<div align="center">
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1200&color=6095E8&center=true&vCenter=true&width=600&lines=Consistency+over+intensity.;Learn+the+fundamentals.+Build+real+projects.;Every+day+is+an+opportunity+to+improve." alt="Learning philosophy" />
-
-</div>
-
----
+<!-- ═══════════════════════════════════════════════ -->
+<!--                 PROJECT SECTION                -->
+<!-- ═══════════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
 
-Here are some projects I've developed while learning and practicing programming and web development.
-
-| # | Project | Description | Technologies |
-|:--:|:---|:---|:---|
-| 01 | **Hero Dev Portfolio** | Personal portfolio website showcasing skills and projects. | HTML, CSS, JavaScript |
-| 02 | **Payoo** | Digital payment interface project. | JavaScript |
-| 03 | **BPL Dream 11 Resource** | Cricket fantasy resource and information platform. | Web Development |
-| 04 | **English Janala Code** | Educational web project for English learning. | JavaScript, API |
-| 05 | **Jobs Board Final** | Job listing and application interface. | React |
-
 <div align="center">
 
+| Project | Description | Tech Stack |
+|:--|:--|:--|
+| 🧑‍💻 **Hero Dev Portfolio** | Personal portfolio to showcase skills and projects. | HTML, CSS, JavaScript |
+| 💸 **Payoo** | Interactive digital payment interface. | JavaScript |
+| 🏏 **BPL Dream 11 Resource** | Cricket fantasy resource platform. | HTML, CSS, JavaScript |
+| 📚 **English Janala** | English vocabulary learning application using API data. | JavaScript, REST API |
+| 💼 **Jobs Board Final** | Job listing and application interface. | React |
+
+<br/>
+
 <a href="https://github.com/sakib228?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-28569A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-0B1120?style=for-the-badge&logo=github&logoColor=white&labelColor=1E40AF" alt="Explore Repositories"/>
 </a>
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Statistics
+<!-- ═══════════════════════════════════════════════ -->
+<!--                 CURRENT FOCUS                 -->
+<!-- ═══════════════════════════════════════════════ -->
+
+## 🎯 Current Focus
 
 <div align="center">
 
-<img width="65%" src="https://github-readme-stats.vercel.app/api?username=sakib228&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=tokyonight&bg_color=0B1220&title_color=76A5F5&icon_color=76A5F5&text_color=DCE6F5" alt="GitHub Statistics" />
-
-<br/><br/>
-
-<img width="65%" src="https://streak-stats.demolab.com?user=sakib228&theme=tokyonight&hide_border=true&background=0B1220&ring=6095E8&fire=76A5F5&currStreakLabel=76A5F5&sideLabels=DCE6F5&dates=8B9BB5" alt="GitHub Contribution Streak" />
+| Technology | Current Goal | Status |
+|:--|:--|:--|
+| ⚡ JavaScript | Master core and advanced concepts | 🟢 Learning |
+| ⚛️ React | Build component-based applications | 🟢 Learning |
+| 🌐 Next.js | Explore modern web development | 🔵 Exploring |
+| 🟢 Node.js | Understand backend fundamentals | 🔵 Exploring |
+| 🗄️ MongoDB | Learn database fundamentals | 🔵 Exploring |
+| 🧩 DSA | Improve problem-solving skills | 🟢 Practicing |
+| 🎨 UI/UX | Create responsive user interfaces | 🟢 Improving |
 
 </div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sakib228&bg_color=0B1220&color=DCE6F5&line=6095E8&point=FFFFFF&area=true&area_color=28569A&hide_border=true&custom_title=GitHub%20Contribution%20Graph" alt="GitHub Contribution Activity" />
-
-</div>
-
----
-
-## 🎯 Developer Mindset
-
-<div align="center">
-
-| 💡 Principle | 🚀 My Approach |
-|:---|:---|
-| Consistency | Code and practice regularly |
-| Problem Solving | Understand the logic before coding |
-| Learning | Explore technologies step by step |
-| Development | Build practical and meaningful projects |
-| Improvement | Learn from mistakes and keep growing |
 
 <br/>
 
-> "Great developers are not built in a day. They are built through consistency, curiosity, and continuous improvement."
+<!-- ═══════════════════════════════════════════════ -->
+<!--                GITHUB ANALYTICS                -->
+<!-- ═══════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sakib228&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib228&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=sakib228&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sakib228&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 
 </div>
 
----
+<br/>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--                  EDUCATION                     -->
+<!-- ═══════════════════════════════════════════════ -->
+
+## 🎓 Education
+
+<div align="center">
+
+| Qualification | Institution | Result |
+|:--|:--|:--|
+| 🎓 **B.Sc. in CSE (Running)** | Bangladesh University of Business and Technology | CGPA: **3.51** |
+| 📘 **HSC (Science), 2022** | Govt. Yasin College, Faridpur | GPA: **4.92** |
+| 📗 **SSC (Science), 2020** | Faridpur Zilla School | GPA: **4.94** |
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--                  LANGUAGES                     -->
+<!-- ═══════════════════════════════════════════════ -->
+
+## 🌍 Languages
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Bangla-Native-006A4E?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/English-Intermediate-1E40AF?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--                 CONNECT SECTION                -->
+<!-- ═══════════════════════════════════════════════ -->
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, sharing knowledge, exploring new technologies, and collaborating on meaningful projects.
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/md-sakib-hossain-dev/">
-<img src="https://img.shields.io/badge/LinkedIn-Md.%20Sakib%20Hossain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+I'm always open to learning, collaboration, and connecting with fellow developers.
+
+<br/>
 
 <a href="mailto:sakinhossainmd1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-sakinhossainmd1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-
-<a href="https://github.com/sakib228">
-<img src="https://img.shields.io/badge/GitHub-sakib228-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.linkedin.com/in/md-sakib-hossain-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/md_sakib_dev/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.youtube.com/channel/UCSOKP5exnuXHptNcypAQfLg">
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://www.facebook.com/sheikh.sakibhossain.HULK">
+  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
 <br/><br/>
 
-### 💙 Thanks for visiting my profile!
+### 💡 Developer Philosophy
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=76A5F5&center=true&vCenter=true&width=500&lines=Keep+Learning.;Keep+Building.;Keep+Growing." alt="Footer typing animation" />
+**"Code. Learn. Build. Repeat."**
+
+*Every line of code is another step forward.*
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:6095E8,35:28569A,70:142D55,100:0B1736" />
-
-<sub>Designed & Maintained by <b>Md. Sakib Hossain</b></sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=94A3B8&center=true&vCenter=true&width=550&height=40&lines=Thanks+for+stopping+by!+%E2%9C%A8;Open+to+collaboration+%26+learning+opportunities" alt="Footer Typing Animation"/>
 
 </div>
 
-<!-- ========================================================= -->
-<!--                    END OF README                          -->
-<!-- ========================================================= -->
+<!-- ═══════════════════════════════════════════════ -->
+<!--                  FOOTER BANNER                -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E40AF,100:020617&height=140&section=footer" />
