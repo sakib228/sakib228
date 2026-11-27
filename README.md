@@ -2,13 +2,11 @@
 
 <!-- ================= HERO HEADER ================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,35:0B1120,65:1E40AF,100:38BDF8&height=250&section=header&text=Md.%20Sakib%20Hossain&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=CSE%20Student%20%7C%20Frontend%20Developer%20%7C%20Problem%20Solver&descSize=16&descAlignY=58&animation=fadeIn" alt="Sakib's Profile Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,35:0B1120,65:1E40AF,100:38BDF8&height=250&section=header&text=Md.%20Sakib%20Hossain&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=CSE%20Student%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20Problem%20Solver&descSize=16&descAlignY=58&animation=fadeIn" alt="Sakib's Profile Banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Hi+there%2C+I'm+Sakib+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;JavaScript+%7C+React+%7C+Next.js;Building+Modern+%26+Responsive+Web+Apps;Code.+Learn.+Build.+Repeat." alt="Typing Animation"/>
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Hi+there%2C+I'm+Sakib+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;JavaScript+%7C+React+%7C+Next.js;Building+Modern+Web+Applications;Code.+Learn.+Build.+Repeat." alt="Typing Animation"/>
-
-<br/><br/>
 
 <a href="https://github.com/sakib228">
   <img src="https://img.shields.io/badge/GitHub-sakib228-0B1120?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -40,23 +38,23 @@
 
 ## 👋 About Me
 
-<img align="right" width="110" src="https://skillicons.dev/icons?i=js,react,html,css&perline=2&theme=dark" alt="My Core Technologies"/>
+<img align="right" width="110" src="https://skillicons.dev/icons?i=js,react,html,css&perline=2&theme=dark" alt="Core Technologies"/>
 
-I'm **Md. Sakib Hossain**, a Computer Science & Engineering student at **Bangladesh University of Business and Technology (BUBT)**.
+I'm **Md. Sakib Hossain**, a Computer Science & Engineering student at **Bangladesh University of Business and Technology (BUBT)**, passionate about building modern, responsive, and user-friendly web applications.
 
-I'm passionate about building modern, responsive, and user-friendly web applications. I enjoy learning new technologies, solving programming problems, and turning ideas into real-world projects.
+I enjoy exploring new technologies, solving programming problems, and turning ideas into real-world projects.
 
 - 💻 Interested in Frontend & Full-Stack Development
-- ⚡ Strengthening JavaScript fundamentals
+- ⚡ Strengthening JavaScript fundamentals through regular practice
 - ⚛️ Learning React and modern frontend technologies
 - 🧩 Practicing Data Structures & Algorithms
-- 🚀 Building projects to improve my skills
+- 🚀 Building projects to level up my skills
 - 🎯 Working towards becoming a better software developer
 
 <br clear="right"/>
 
 <details>
-<summary><b>👨‍💻 Developer Profile</b></summary>
+<summary><b>👨‍💻 Developer Profile (click to expand)</b></summary>
 
 <br/>
 
@@ -77,8 +75,8 @@ const sakib = {
 
   interests: [
     "Web Development",
-    "Problem Solving",
     "Data Structures & Algorithms",
+    "Problem Solving",
     "Building Useful Projects"
   ],
 
@@ -96,34 +94,12 @@ const sakib = {
 
 <div align="center">
 
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" alt="Programming Languages"/>
-
-<br/><br/>
-
-### 🎨 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&theme=dark" alt="Frontend Technologies"/>
-
-<br/><br/>
-
-### ⚙️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&theme=dark" alt="Backend and Database"/>
-
-<br/><br/>
-
-### 🛠️ Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Development Tools"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+| Category | Technologies |
+|:---:|:---:|
+| **💻 Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" alt="Languages"/> |
+| **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&theme=dark" alt="Frontend"/> |
+| **⚙️ Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&theme=dark" alt="Backend and Database"/> |
+| **🛠️ Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Tools"/> |
 
 </div>
 
@@ -133,22 +109,18 @@ const sakib = {
 
 ## 🚀 Featured Projects
 
-Here are some projects from my development journey.
-
 | Project | Description | Technologies |
 |:---|:---|:---|
-| 🧑‍💻 **Hero Dev Portfolio** | Personal portfolio showcasing my skills and projects. | HTML, CSS, JavaScript |
-| 💸 **Payoo** | Interactive digital payment interface. | JavaScript |
-| 🏏 **BPL Dream 11 Resource** | Cricket fantasy resource platform. | HTML, CSS, JavaScript |
-| 📚 **English Janala** | English vocabulary learning app using API data. | JavaScript, REST API |
-| 💼 **Jobs Board Final** | Job listing and application interface. | React |
+| 🧑‍💻 **Hero Dev Portfolio** | Personal portfolio showcasing my skills and projects | `HTML` `CSS` `JavaScript` |
+| 💸 **Payoo** | Interactive digital payment interface | `JavaScript` |
+| 🏏 **BPL Dream 11 Resource** | Cricket fantasy resource platform | `HTML` `CSS` `JavaScript` |
+| 📚 **English Janala** | English vocabulary learning app using API data | `JavaScript` `REST API` |
+| 💼 **Jobs Board Final** | Job listing and application interface | `React` |
 
 <div align="center">
 
-<br/>
-
 <a href="https://github.com/sakib228?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Repositories-0B1120?style=for-the-badge&logo=github&logoColor=white&labelColor=1E40AF" alt="Explore Repositories"/>
+  <img src="https://img.shields.io/badge/Explore_All_Repositories-0B1120?style=for-the-badge&logo=github&logoColor=white&labelColor=1E40AF" alt="Explore Repositories"/>
 </a>
 
 </div>
@@ -160,14 +132,14 @@ Here are some projects from my development journey.
 ## 🎯 Current Focus
 
 | Area | Learning Goal | Status |
-|:---|:---|:---|
+|:---|:---|:---:|
 | ⚡ JavaScript | Master core and advanced concepts | 🟢 In Progress |
 | ⚛️ React | Build component-based applications | 🟢 In Progress |
-| 🌐 Next.js | Explore modern web development | 🔵 Exploring |
+| 🌐 Next.js | Explore modern full-stack development | 🔵 Exploring |
 | 🟢 Node.js | Understand backend fundamentals | 🔵 Exploring |
 | 🗄️ MongoDB | Learn database fundamentals | 🔵 Exploring |
-| 🧩 DSA | Improve problem-solving skills | 🟢 Practicing |
-| 🎨 UI/UX | Create responsive interfaces | 🟢 Improving |
+| 🧩 DSA | Improve problem-solving skills | 🟢 Ongoing |
+| 🎨 UI/UX | Create responsive interfaces | 🟢 Ongoing |
 
 <br/>
 
@@ -178,7 +150,6 @@ Here are some projects from my development journey.
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sakib228&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib228&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
@@ -198,7 +169,7 @@ Here are some projects from my development journey.
 ## 🎓 Education
 
 | Qualification | Institution | Result |
-|:---|:---|:---|
+|:---|:---|:---:|
 | 🎓 **B.Sc. in CSE (Running)** | Bangladesh University of Business and Technology | CGPA: **3.51** |
 | 📘 **HSC (Science), 2022** | Govt. Yasin College, Faridpur | GPA: **4.92** |
 | 📗 **SSC (Science), 2020** | Faridpur Zilla School | GPA: **4.94** |
