@@ -1,14 +1,12 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                  HERO SECTION                  -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ================= HERO HEADER ================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,25:0B1120,60:1E40AF,100:38BDF8&height=260&section=header&text=Md.%20Sakib%20Hossain&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=CSE%20Student%20%7C%20Frontend%20Developer%20%7C%20Problem%20Solver&descSize=17&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,35:0B1120,65:1E40AF,100:38BDF8&height=250&section=header&text=Md.%20Sakib%20Hossain&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=CSE%20Student%20%7C%20Frontend%20Developer%20%7C%20Problem%20Solver&descSize=16&descAlignY=58&animation=fadeIn" alt="Sakib's Profile Banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&height=55&lines=Hi+there%2C+I'm+Sakib+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;JavaScript+%7C+React+%7C+Next.js;Building+Modern+and+Responsive+Web+Apps;Code.+Learn.+Build.+Repeat." alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Hi+there%2C+I'm+Sakib+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;JavaScript+%7C+React+%7C+Next.js;Building+Modern+Web+Applications;Code.+Learn.+Build.+Repeat." alt="Typing Animation"/>
 
 <br/><br/>
 
@@ -19,42 +17,41 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:sakinhossainmd1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sakib228&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/sakib228?label=Followers&style=for-the-badge&color=38BDF8&logo=github" alt="GitHub Followers"/>
+<img src="https://komarev.com/ghpvc/?username=sakib228&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/sakib228?label=Followers&style=flat-square&color=38BDF8&logo=github" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/stars/sakib228?label=Stars&style=flat-square&color=38BDF8&logo=github" alt="GitHub Stars"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Focus-Frontend%20Development-1E40AF?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Learning-JavaScript-38BDF8?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Location-Bangladesh-0B1120?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Frontend-Development-1E40AF?style=flat-square&logo=react&logoColor=white" alt="Frontend Development"/>
+<img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Location-Bangladesh-0B1120?style=flat-square&logo=googlemaps&logoColor=white" alt="Bangladesh"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                  ABOUT SECTION                 -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ================= ABOUT ME ================= -->
 
 ## 👋 About Me
 
-<img align="right" width="120" src="https://skillicons.dev/icons?i=js,react,html,css&perline=2&theme=dark" />
+<img align="right" width="110" src="https://skillicons.dev/icons?i=js,react,html,css&perline=2&theme=dark" alt="My Core Technologies"/>
 
 I'm **Md. Sakib Hossain**, a Computer Science & Engineering student at **Bangladesh University of Business and Technology (BUBT)**.
 
-I'm passionate about creating modern, responsive, and user-friendly web applications. I enjoy learning new technologies, solving programming problems, and turning ideas into real-world projects.
+I'm passionate about building modern, responsive, and user-friendly web applications. I enjoy learning new technologies, solving programming problems, and turning ideas into real-world projects.
 
-- 💻 Frontend Development enthusiast
+- 💻 Interested in Frontend & Full-Stack Development
 - ⚡ Strengthening JavaScript fundamentals
 - ⚛️ Learning React and modern frontend technologies
 - 🧩 Practicing Data Structures & Algorithms
-- 🚀 Building projects and improving every day
-- 🎯 Working towards becoming a skilled software developer
+- 🚀 Building projects to improve my skills
+- 🎯 Working towards becoming a better software developer
 
 <br clear="right"/>
 
@@ -93,11 +90,9 @@ const sakib = {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                  TECH STACK                    -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ================= TECH STACK ================= -->
 
-## 🧰 Tech Stack & Technologies
+## 🧰 Tech Stack & Tools
 
 <div align="center">
 
@@ -125,30 +120,30 @@ const sakib = {
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                 PROJECT SECTION                -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ================= PROJECTS ================= -->
 
 ## 🚀 Featured Projects
 
-<div align="center">
+Here are some projects from my development journey.
 
-| Project | Description | Tech Stack |
-|:--|:--|:--|
-| 🧑‍💻 **Hero Dev Portfolio** | Personal portfolio to showcase skills and projects. | HTML, CSS, JavaScript |
+| Project | Description | Technologies |
+|:---|:---|:---|
+| 🧑‍💻 **Hero Dev Portfolio** | Personal portfolio showcasing my skills and projects. | HTML, CSS, JavaScript |
 | 💸 **Payoo** | Interactive digital payment interface. | JavaScript |
 | 🏏 **BPL Dream 11 Resource** | Cricket fantasy resource platform. | HTML, CSS, JavaScript |
-| 📚 **English Janala** | English vocabulary learning application using API data. | JavaScript, REST API |
+| 📚 **English Janala** | English vocabulary learning app using API data. | JavaScript, REST API |
 | 💼 **Jobs Board Final** | Job listing and application interface. | React |
+
+<div align="center">
 
 <br/>
 
@@ -160,31 +155,23 @@ const sakib = {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                 CURRENT FOCUS                 -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ================= CURRENT FOCUS ================= -->
 
 ## 🎯 Current Focus
 
-<div align="center">
-
-| Technology | Current Goal | Status |
-|:--|:--|:--|
-| ⚡ JavaScript | Master core and advanced concepts | 🟢 Learning |
-| ⚛️ React | Build component-based applications | 🟢 Learning |
+| Area | Learning Goal | Status |
+|:---|:---|:---|
+| ⚡ JavaScript | Master core and advanced concepts | 🟢 In Progress |
+| ⚛️ React | Build component-based applications | 🟢 In Progress |
 | 🌐 Next.js | Explore modern web development | 🔵 Exploring |
 | 🟢 Node.js | Understand backend fundamentals | 🔵 Exploring |
 | 🗄️ MongoDB | Learn database fundamentals | 🔵 Exploring |
 | 🧩 DSA | Improve problem-solving skills | 🟢 Practicing |
-| 🎨 UI/UX | Create responsive user interfaces | 🟢 Improving |
-
-</div>
+| 🎨 UI/UX | Create responsive interfaces | 🟢 Improving |
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                GITHUB ANALYTICS                -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ================= GITHUB ANALYTICS ================= -->
 
 ## 📊 GitHub Analytics
 
@@ -206,42 +193,32 @@ const sakib = {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                  EDUCATION                     -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ================= EDUCATION ================= -->
 
 ## 🎓 Education
 
-<div align="center">
-
 | Qualification | Institution | Result |
-|:--|:--|:--|
+|:---|:---|:---|
 | 🎓 **B.Sc. in CSE (Running)** | Bangladesh University of Business and Technology | CGPA: **3.51** |
 | 📘 **HSC (Science), 2022** | Govt. Yasin College, Faridpur | GPA: **4.92** |
 | 📗 **SSC (Science), 2020** | Faridpur Zilla School | GPA: **4.94** |
 
-</div>
-
 <br/>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                  LANGUAGES                     -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ================= LANGUAGES ================= -->
 
 ## 🌍 Languages
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Bangla-Native-006A4E?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/English-Intermediate-1E40AF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bangla-Native-006A4E?style=for-the-badge" alt="Bangla"/>
+<img src="https://img.shields.io/badge/English-Intermediate-1E40AF?style=for-the-badge" alt="English"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                 CONNECT SECTION                -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ================= CONNECT ================= -->
 
 ## 🤝 Let's Connect
 
@@ -277,12 +254,10 @@ I'm always open to learning, collaboration, and connecting with fellow developer
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=94A3B8&center=true&vCenter=true&width=550&height=40&lines=Thanks+for+stopping+by!+%E2%9C%A8;Open+to+collaboration+%26+learning+opportunities" alt="Footer Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=94A3B8&center=true&vCenter=true&width=550&height=40&lines=Thanks+for+stopping+by!+%E2%9C%A8;Open+to+collaboration+%26+learning+opportunities" alt="Footer Typing Animation"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                  FOOTER BANNER                -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ================= FOOTER ================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E40AF,100:020617&height=140&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E40AF,100:020617&height=130&section=footer" alt="Footer Banner"/>
